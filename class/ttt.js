@@ -147,13 +147,13 @@ class TTT {
 
 }
 
-let grid =
-[[' ',' ',' '],
-[' ',' ',' '],
-[' ',' ',' '],
-[],
-[]]
+// let grid =
+// [[' ',' ',' '],
+// [' ',' ',' '],
+// [' ',' ',' '],
+// [],
+// []]
 
-console.log(grid.length);
+// console.log(grid.length);
 
 module.exports = TTT;
